@@ -1,0 +1,13 @@
+#Wed Jul 05 15:25:59 EEST 2023
+/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/Film/controller/FilmController.java=1688504482918
+/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/Film/models/Film.java=1688505310906
+/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/Film/service/ActorService.java=1688499800202
+/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/Film/service/FilmService.java=1688505373032
+/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/Film/storage/ActorWriter.java=1688499788662
+/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/film/controller/FilmController.java=1688559938756
+/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/film/models/Film.java=1688559938746
+/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/film/service/FilmService.java=1688559938770
+/Users/ledan/projects/Film/src/main/resources/application.properties=1686659731000
+configuration*?=64CF23F2FEC728E1B01C4E66FD9D969EB4D9996D
+module-resource*?\:checkstyle-suppressions.xml=A67CD586A17C8AB05AAF71CC7A9F85E963C8E8A4
+module-resource*?\:checkstyle-xpath-suppressions.xml=6DB7B24F6A7B83228BCA1313CA0B81106664A6C2

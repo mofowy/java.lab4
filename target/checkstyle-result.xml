@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/film/FilmApplication.java">
+<error line="7" column="1" severity="error" message="Utility classes should not have a public or default constructor." source="com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck"/>
+</file>
+<file name="/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/film/models/Film.java">
+</file>
+<file name="/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/film/storage/FilmWriter.java">
+<error line="112" column="41" severity="error" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/film/controller/FilmController.java">
+</file>
+<file name="/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/film/service/FilmService.java">
+</file>
+</checkstyle>

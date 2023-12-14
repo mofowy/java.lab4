@@ -1,0 +1,5 @@
+ua/lviv/iot/Film/FilmApplication.class
+ua/lviv/iot/Film/storage/FilmStorage.class
+ua/lviv/iot/Film/controller/FilmController.class
+ua/lviv/iot/Film/service/FilmService.class
+ua/lviv/iot/Film/models/Film.class

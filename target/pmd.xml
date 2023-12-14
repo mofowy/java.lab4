@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.53.0" timestamp="2023-07-05T15:25:58.213">
+<file name="/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/film/controller/FilmController.java">
+<violation beginline="37" endline="37" begincolumn="69" endcolumn="70" rule="ShortVariable" ruleset="Code Style" package="ua.lviv.iot.film.controller" class="FilmController" method="getById" variable="id" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like id
+</violation>
+<violation beginline="58" endline="58" begincolumn="65" endcolumn="66" rule="ShortVariable" ruleset="Code Style" package="ua.lviv.iot.film.controller" class="FilmController" method="put" variable="id" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like id
+</violation>
+<violation beginline="68" endline="68" begincolumn="68" endcolumn="69" rule="ShortVariable" ruleset="Code Style" package="ua.lviv.iot.film.controller" class="FilmController" method="delete" variable="id" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like id
+</violation>
+</file>
+<file name="/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/film/models/Film.java">
+<violation beginline="14" endline="81" begincolumn="14" endcolumn="1" rule="ShortClassName" ruleset="Code Style" package="ua.lviv.iot.film.models" class="Film" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#shortclassname" priority="4">
+Avoid short class names like Film
+</violation>
+<violation beginline="18" endline="18" begincolumn="21" endcolumn="22" rule="ShortVariable" ruleset="Code Style" package="ua.lviv.iot.film.models" class="Film" variable="id" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like id
+</violation>
+<violation beginline="32" endline="32" begincolumn="31" endcolumn="32" rule="ShortVariable" ruleset="Code Style" package="ua.lviv.iot.film.models" class="Film" method="Film" variable="id" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like id
+</violation>
+</file>
+<file name="/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/film/service/FilmService.java">
+<violation beginline="51" endline="51" begincolumn="39" endcolumn="40" rule="ShortVariable" ruleset="Code Style" package="ua.lviv.iot.film.service" class="FilmService" method="getFilm" variable="id" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like id
+</violation>
+<violation beginline="61" endline="61" begincolumn="39" endcolumn="40" rule="ShortVariable" ruleset="Code Style" package="ua.lviv.iot.film.service" class="FilmService" method="putFilm" variable="id" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like id
+</violation>
+<violation beginline="67" endline="67" begincolumn="42" endcolumn="43" rule="ShortVariable" ruleset="Code Style" package="ua.lviv.iot.film.service" class="FilmService" method="deleteFilm" variable="id" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like id
+</violation>
+</file>
+<file name="/Users/ledan/projects/Film/src/main/java/ua/lviv/iot/film/storage/FilmWriter.java">
+<violation beginline="64" endline="64" begincolumn="29" endcolumn="30" rule="ShortVariable" ruleset="Code Style" package="ua.lviv.iot.film.storage" class="FilmWriter" method="readFilmsFromCsv" variable="id" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like id
+</violation>
+<violation beginline="92" endline="92" begincolumn="33" endcolumn="54" rule="LongVariable" ruleset="Code Style" package="ua.lviv.iot.film.storage" class="FilmWriter" method="readFilmsFromCsv" variable="matcherArgumentsActors" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#longvariable" priority="3">
+Avoid excessively long variable names like matcherArgumentsActors
+</violation>
+<violation beginline="97" endline="97" begincolumn="33" endcolumn="55" rule="LongVariable" ruleset="Code Style" package="ua.lviv.iot.film.storage" class="FilmWriter" method="readFilmsFromCsv" variable="matcherArgumentsReviews" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#longvariable" priority="3">
+Avoid excessively long variable names like matcherArgumentsReviews
+</violation>
+<violation beginline="102" endline="102" begincolumn="33" endcolumn="53" rule="LongVariable" ruleset="Code Style" package="ua.lviv.iot.film.storage" class="FilmWriter" method="readFilmsFromCsv" variable="matcherArgumentsFacts" externalInfoUrl="https://pmd.github.io/pmd-6.53.0/pmd_rules_java_codestyle.html#longvariable" priority="3">
+Avoid excessively long variable names like matcherArgumentsFacts
+</violation>
+</file>
+</pmd>
